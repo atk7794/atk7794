@@ -40,7 +40,7 @@ A production-style, role-based hospital management platform designed with real-w
 
 ---
 
-### 🎙️ Emotion Detection from TV Series Audio Clips (Graduation Project)
+### 🎙️ Emotion Detection from TV Series Audio Clips (Senior Project)
 A large-scale **speech emotion recognition** project using classical machine learning, deep learning, and state-of-the-art transformer models.
 
 **Highlights**
