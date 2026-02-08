@@ -40,16 +40,30 @@ A production-style, role-based hospital management platform designed with real-w
 
 ---
 
-### 🎙️ Emotion Detection from TV Series Audio Clips (Senior Project)
-A large-scale **speech emotion recognition** project using classical machine learning, deep learning, and state-of-the-art transformer models.
+### 🎙️ Speech Emotion Detection/Recognition from TV Series Audio Clips (Senior Graduation Project)
 
-**Highlights**
-- Audio preprocessing & feature extraction
-- ML vs DL vs Transformer model benchmarking
-- Extensive experimentation & evaluation
-- Jupyter Notebook & Google Colab based workflow
+A comprehensive **speech-based emotion recognition system** developed as a **senior graduation project**, focusing on classical machine learning, deep learning, and state-of-the-art pretrained speech models.
 
-🔗 Repository: *(Coming soon)*
+**Project Scope**
+- End-to-end experimental pipeline on the **MELD dataset**
+- Extensive audio preprocessing & feature engineering
+- Benchmarking **ML vs DL vs Transformer-based models**
+- Rigorous **train / dev / test** evaluation protocol
+- Research-oriented **Jupyter Notebook & Google Colab** workflow
+- Fully documented and reproducible project structure
+
+**Tech & Methods**
+- Python, PyTorch, scikit-learn  
+- MFCCs, spectral & prosodic features  
+- CNN, RNN / BiLSTM architectures  
+- HuBERT, wav2vec 2.0, WavLM embeddings  
+- Whisper transcription & PyAnnote diarization  
+
+🔗 **Repository**  
+https://github.com/atk7794/speech-emotion-recognition
+
+📌 *Large datasets and trained models are excluded due to size and licensing constraints.  
+The repository includes detailed documentation, experimental results, and academic references.*
 
 ---
 
