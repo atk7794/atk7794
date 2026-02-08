@@ -40,7 +40,7 @@ A production-style, role-based hospital management platform designed with real-w
 
 ---
 
-### 🎙️ Speech Emotion Detection/Recognition from TV Series Audio Clips (Senior Graduation Project)
+### 🎙️ Speech Emotion Recognition (Senior Graduation Project)
 
 A comprehensive **speech-based emotion recognition system** developed as a **senior graduation project**, focusing on classical machine learning, deep learning, and state-of-the-art pretrained speech models.
 
