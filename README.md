@@ -5,14 +5,15 @@
 🌍 Türkiye
 
 I build **real-world, end-to-end software systems** — from backend architecture and databases to modern frontend dashboards.  
-I also have a strong background in **Machine Learning & Deep Learning**, with a focus on **audio and speech-based applications**.
+I also have a strong background in **Machine Learning & Deep Learning & State-of-the-Art**, with a focus on **audio and speech-based applications**.
+I enjoy building systems that are both technically robust and practically usable.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏥 Hospital Management System (Full-Stack)
-A production-style, role-based hospital management platform designed with real-world workflows.
+A production-style, role-based hospital management platform designed to reflect real-world healthcare workflows.
 
 **Tech Stack**
 - **Backend:** Spring Boot, Spring Security (JWT), PostgreSQL, JPA/Hibernate, Docker
@@ -35,8 +36,9 @@ A production-style, role-based hospital management platform designed with real-w
 - Frontend: https://github.com/atk7794/hms-frontend  
 - Backend: https://github.com/atk7794/hms-backend  
 
-> ⚠️ Email delivery is temporarily disabled due to SMTP restrictions on free hosting.  
-> The system is production-ready and compatible with providers such as **Resend, Amazon SES, and SendGrid**.
+> ⚠️ **Free Tier Limitation**  
+> Email delivery is temporarily disabled due to SMTP restrictions on free hosting.  
+> The system is production-ready and compatible with **Resend, Amazon SES, and SendGrid**.
 
 ---
 
@@ -84,6 +86,7 @@ A modern, interactive personal website with secure backend integration.
 **Backend**
 - Java, Spring Boot, Spring Security, JWT
 - RESTful APIs, JPA/Hibernate
+- Authentication & Authorization
 - PostgreSQL
 - Docker
 
@@ -99,6 +102,7 @@ A modern, interactive personal website with secure backend integration.
 - PyTorch / TensorFlow
 - Audio & speech processing
 - Model evaluation & comparison
+- Experiment design & benchmarking
 
 **Tools**
 - Git & GitHub
