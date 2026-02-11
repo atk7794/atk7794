@@ -5,7 +5,7 @@
 🌍 Türkiye
 
 I build **real-world, end-to-end software systems** — from backend architecture and databases to modern frontend dashboards.  
-I also have a strong background in **Machine Learning & Deep Learning & State-of-the-Art**, with a focus on **audio and speech-based applications**.
+I also have a strong background in **Machine Learning & Deep Learning & State-of-the-Art**, with a focus on **audio and speech-based applications**.  
 I enjoy building systems that are both technically robust and practically usable.
 
 ---
